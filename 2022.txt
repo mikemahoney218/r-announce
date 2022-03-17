@@ -168,3 +168,26 @@ Office: A 4.23
 Email: pd.mes at cbs.dk  Priv: PDalgd at gmail.com
 
 
+From ht @end|ng |rom he@therturner@net  Mon Mar 14 20:11:42 2022
+From: ht @end|ng |rom he@therturner@net (Heather Turner)
+Date: Mon, 14 Mar 2022 19:11:42 +0000
+Subject: Call for proposals to organize useR! 2023 as a global online
+ conference
+Message-ID: <d6c0322f-c034-40e6-848d-7c0a399a2de9@www.fastmail.com>
+
+Dear All,
+
+The R Foundation Conference Committee invites proposals to organize useR! 2023 as a global online conference:
+
+https://www.r-project.org/conferences/useR_2023_call.html
+
+The call is open to teams worldwide and the deadline for outline proposals is **Friday 22 April 2022**. 
+
+Any queries should be sent to R-conferences at r-project.org (after a careful read of the call!).
+
+Best wishes,
+
+Heather Turner
+on behalf of the R Foundation Conference Committee
+
+
