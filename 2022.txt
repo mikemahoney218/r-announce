@@ -191,3 +191,24 @@ Heather Turner
 on behalf of the R Foundation Conference Committee
 
 
+From pd@me@ @end|ng |rom cb@@dk  Fri Mar 18 11:24:02 2022
+From: pd@me@ @end|ng |rom cb@@dk (Peter Dalgaard)
+Date: Fri, 18 Mar 2022 10:24:02 +0000
+Subject: [Rd] R 4.2.0 scheduled for April 22
+Message-ID: <892DC5EB-361A-4533-ABD4-FC747EE5B3E0@cbs.dk>
+
+Full schedule is available on developer.r-project.org.
+
+-- 
+Peter Dalgaard, Professor,
+Center for Statistics, Copenhagen Business School
+Solbjerg Plads 3, 2000 Frederiksberg, Denmark
+Phone: (+45)38153501
+Office: A 4.23
+Email: pd.mes at cbs.dk  Priv: PDalgd at gmail.com
+
+______________________________________________
+R-devel at r-project.org mailing list
+https://stat.ethz.ch/mailman/listinfo/r-devel
+
+
