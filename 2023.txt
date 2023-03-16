@@ -1,0 +1,17 @@
+From pd@me@ @end|ng |rom cb@@dk  Wed Mar  1 13:04:56 2023
+From: pd@me@ @end|ng |rom cb@@dk (Peter Dalgaard)
+Date: Wed, 1 Mar 2023 12:04:56 +0000
+Subject: [Rd] R 4.2.3 scheduled for March 15
+Message-ID: <0698828C-0FC0-421C-92DC-045717E4F7A2@cbs.dk>
+
+Full schedule available on developer.r-project.org in a short while.
+
+-- 
+Peter Dalgaard, Professor,
+Center for Statistics, Copenhagen Business School
+Solbjerg Plads 3, 2000 Frederiksberg, Denmark
+Phone: (+45)38153501
+Office: A 4.23
+Email: pd.mes at cbs.dk  Priv: PDalgd at gmail.com
+
+
