@@ -169,3 +169,20 @@ R-devel at r-project.org mailing list
 https://stat.ethz.ch/mailman/listinfo/r-devel
 
 
+From pd@|gd @end|ng |rom gm@||@com  Tue Mar 21 10:46:41 2023
+From: pd@|gd @end|ng |rom gm@||@com (peter dalgaard)
+Date: Tue, 21 Mar 2023 10:46:41 +0100
+Subject: [Rd] R 4.3.0 scheduled for April 21
+Message-ID: <FD365656-05E1-4962-8238-2A850FF7D972@gmail.com>
+
+Full schedule is available on developer.r-project.org (pending update from SVN).
+
+-- 
+Peter Dalgaard, Professor,
+Center for Statistics, Copenhagen Business School
+Solbjerg Plads 3, 2000 Frederiksberg, Denmark
+Phone: (+45)38153501
+Office: A 4.23
+Email: pd.mes at cbs.dk  Priv: PDalgd at gmail.com
+
+
