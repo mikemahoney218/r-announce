@@ -1017,3 +1017,29 @@ Office: A 4.23
 Email: pd.mes at cbs.dk  Priv: PDalgd at gmail.com
 
 
+From j@me@@b|@ck@jb2 @end|ng |rom roche@com  Thu May 18 14:16:01 2023
+From: j@me@@b|@ck@jb2 @end|ng |rom roche@com (Black, James)
+Date: Thu, 18 May 2023 14:16:01 +0200
+Subject: useR 2023 regional events
+Message-ID: <CAAsRM+CLSMKrgRQ5ddxbdE8X_Lxzw6X2K5FtQ_CZDwFH5ndjAg@mail.gmail.com>
+
+With the support of the R Foundation Conference Committee, we are happy to
+announce the promotion of regional R events to connect our R community and
+bridge us till useR! 2024.
+
+On July 21st we hold an event in Basel, with all ticket sales for the
+Basel event being directly donated to the R Foundation. Similar events are
+being planned in Shanghai and San Francisco this summer.
+
+Basel event link (call for abstracts is currently open):
+https://user-regional-2023.gitlab.io/basel/
+
+We also wanted to help promote events beyond those organised in
+collaboration with the R Foundation and R User Group (RUGs), so are hosting
+this dashboard of R events this summer which will also include the Shanghai
+and San Francisco events when they are launched:
+https://user-regional-2023.gitlab.io/user-regional-2023.io/
+
+	[[alternative HTML version deleted]]
+
+
