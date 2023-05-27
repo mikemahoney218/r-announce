@@ -1043,3 +1043,20 @@ https://user-regional-2023.gitlab.io/user-regional-2023.io/
 	[[alternative HTML version deleted]]
 
 
+From pd@me@ @end|ng |rom cb@@dk  Thu May 25 15:44:18 2023
+From: pd@me@ @end|ng |rom cb@@dk (Peter Dalgaard)
+Date: Thu, 25 May 2023 13:44:18 +0000
+Subject: [Rd] R 4.3.1 scheduled for June 16
+Message-ID: <F0BAE012-7041-443D-A95E-D03465D55024@cbs.dk>
+
+Full schedule available on developer.r-project.org in a short while.
+
+-- 
+Peter Dalgaard, Professor,
+Center for Statistics, Copenhagen Business School
+Solbjerg Plads 3, 2000 Frederiksberg, Denmark
+Phone: (+45)38153501
+Office: A 4.23
+Email: pd.mes at cbs.dk  Priv: PDalgd at gmail.com
+
+
