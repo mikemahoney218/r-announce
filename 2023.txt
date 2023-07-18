@@ -1194,3 +1194,25 @@ Office: A 4.23
 Email: pd.mes at cbs.dk  Priv: PDalgd at gmail.com
 
 
+From ht @end|ng |rom he@therturner@net  Mon Jul 17 17:33:54 2023
+From: ht @end|ng |rom he@therturner@net (Heather Turner)
+Date: Mon, 17 Jul 2023 16:33:54 +0100
+Subject: Dates and location for useR! 2024
+Message-ID: <ee4534e8-261c-4070-ba6a-17c9f930d955@app.fastmail.com>
+
+Dear All,
+
+We are pleased to announce that useR! 2024 will be a hybrid conference, taking place 8-11 July in Salzburg, Austria.
+
+The conference website is yet to be set up. In the meantime, you can keep up-to-date the following ways:
+
+useR! LinkedIn Page: https://www.linkedin.com/company/user-conf
+useR! Twitter: https://twitter.com/_useRconf
+R Foundation Mastodon: https://fosstodon.org/@R_Foundation (we will likely set up a Mastodon account for useR! in due course)
+
+Best wishes,
+
+Heather
+On behalf of the R Foundation Conference Committee
+
+
